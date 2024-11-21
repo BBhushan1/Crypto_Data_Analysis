@@ -4,7 +4,7 @@ import time
 
 
 # API 
-API_KEY = "fff7f021-cca8-4fe0-9a90-8c19c4bd5423"  
+API_KEY = "CoinMarketApi_Key"  
 URL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
 
 
